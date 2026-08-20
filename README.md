@@ -1,8 +1,8 @@
 # Olá, me chamo Edson Neto!  
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou estudante de **Engenharia da Computação na PUC-GO**, atualmente no **7º período**.  
-Tenho **21 anos** e moro em **Itauçu - GO**.
+Sou estudante de **Engenharia da Computação na PUC-GO**, atualmente no **8º período**.  
+Tenho **22 anos** e moro em **Itauçu - GO**.
 
 💻 Atualmente estudando **Front-End (HTML)**  
 ☕ Não funciono sem café  
